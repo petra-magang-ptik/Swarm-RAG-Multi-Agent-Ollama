@@ -112,4 +112,4 @@ llama-index-embeddings-ollama
 
 qdrant_client
 fastembed
-streamlit==1.32.2
+
