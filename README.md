@@ -6,6 +6,7 @@ if there is a problem within the swarm file with the resulting of non existing o
 2. Add this command to the package
 
 from .core import Swarm
+
 from .types import Agent, Response, Result
 
 __all__ = ["Swarm", "Agent", "Response", "Result"]
